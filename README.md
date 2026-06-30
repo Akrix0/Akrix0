@@ -50,7 +50,17 @@ I am currently looking for freelance or junior developer opportunities.
 ---
 
 ### 🛒 **[Marketplace](https://github.com/Akrix0/Marketplace)**
-Simple e-commerce prototype with product listings and basic marketplace logic.
+
+**Simple e-commerce prototype** built with Django for buying and selling products.
+
+**Key features and advantages:**
+- Product creation and management with multiple image uploads
+- Product browsing, search, and filtering
+- Shopping cart functionality
+- User accounts and profiles
+- Responsive design with Bootstrap 5
+
+**Lightweight and straightforward marketplace solution focused on core e-commerce features.**
 
 ---
 
