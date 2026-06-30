@@ -6,7 +6,9 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akrix0&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akrix0&hide_border=true&theme=radical" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -16,29 +18,53 @@ I enjoy working on real-time systems, backend logic, and building practical proj
 I am currently looking for freelance or junior developer opportunities.
 
 ---
-
 ## 🚀 Projects
 
-### 🧠 [Social Network](https://github.com/Akrix0/social-network  ) (Main Project)
-Full-featured social network focused on real-time communication, communities, and interaction.  
-Includes WebSockets, async communication, messaging system, and user interactions.
+### 🧠 **[Social Network](https://github.com/Akrix0/social-network)** (Main Project)
+**Full-featured social networking platform** with emphasis on real-time communication and community interaction.
+
+**Key features and advantages:**
+- Real-time private and group messaging using **WebSockets** (Django Channels)
+- Community boards with discussions, infinite scroll, and admin management
+- Posts with likes, comments, file attachments, tagging, and view counters
+- Real-time notifications for likes, comments, mentions, and interactions
+- User profiles, follow/friend system, and personalized feed (all posts or friends only)
+- Modern tech stack: Django + ASGI, Bootstrap 5, PostgreSQL support
+
+**Strong emphasis on performance, scalability, and real-time user experience.**
 
 ---
 
-### 📋 [Task Tracker](https://github.com/Akrix0/tasktracker  )
+### 📋 **[Task Tracker](https://github.com/Akrix0/tasktracker)**
+**Powerful task management system** with dashboards and collaborative capabilities.
 
-Task management system with CRUD operations, priorities, deadlines, and comments.
+**Key features and advantages:**
+- Creation and management of dashboards with the ability to add participants
+- Task organization using drag-and-drop lists (Kanban-style)
+- Full CRUD operations for tasks, deadlines, priorities, and statuses
+- Comment system for tasks
+- User-friendly interface with Bootstrap and responsive design
+
+**Excellent tool for personal productivity and small team collaboration.**
 
 ---
 
-### 🛒 [Marketplace](https://github.com/Akrix0/Marketplace)
+### 🛒 **[Marketplace](https://github.com/Akrix0/Marketplace)**
 Simple e-commerce prototype with product listings and basic marketplace logic.
 
 ---
 
-### 🔗 [URL Shortener](https://github.com/Akrix0/url_shortener)
-React + Django project for shortening links.  
-Frontend-backend integration with API-based architecture.
+### 🔗 **[URL Shortener](https://github.com/Akrix0/url_shortener)**
+**Fullstack URL shortening service** with authentication and analytics.
+
+**Key features and advantages:**
+- User registration and authentication (JWT)
+- Creation of short links and management of personal links
+- Basic click analytics and statistics
+- Clean separation: **Django REST Framework** (backend) + **React + TypeScript** (frontend)
+- Modern development experience with Vite
+
+**Well-structured project demonstrating fullstack integration and API-first approach.**
 
 ---
 
@@ -75,14 +101,6 @@ Frontend-backend integration with API-based architecture.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akrix0&hide_border=true&theme=radical" />
-</p>
-
----
-
 ## 📌 Currently Learning
 - React
 - C++
@@ -90,6 +108,5 @@ Frontend-backend integration with API-based architecture.
 ---
 
 ## 📫 Contact
-
-- Email: **akrix000@gmail.com**
-- Telegram: **@Akrix_0**
+- <a href="mailto:akrix000@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="16" alt="Gmail"/></a> [akrix000@gmail.com](mailto:akrix000@gmail.com)
+- <a href="https://t.me/Akrix_0"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16" alt="Telegram"/></a> [@Akrix_0](https://t.me/Akrix_0)
