@@ -64,6 +64,20 @@ I am currently looking for freelance or junior developer opportunities.
 
 ---
 
+### 🔄 **[Format Changer](https://github.com/Akrix0/format_changer)**
+**Web-based file conversion platform** supporting multiple categories of file formats through a clean and intuitive interface.
+
+**Key features and advantages:**
+- Conversion between document, image, audio, video, and data file formats
+- Organized converters grouped by category for easy navigation
+- Modern responsive interface built with FastAPI, Jinja2, HTML, CSS, and JavaScript
+- Extensible architecture that makes adding new conversion formats straightforward
+- Clean project structure with reusable templates and modular backend logic
+
+**Demonstrates backend architecture, file handling, and scalable design for multi-format conversion services.**
+
+---
+
 ### 🔗 **[URL Shortener](https://github.com/Akrix0/url_shortener)**
 **Fullstack URL shortening service** with authentication and analytics.
 
